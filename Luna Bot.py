@@ -23,4 +23,4 @@ async def lunahub(ctx):
     await ctx.send("<:lunahub:981940577748795473> **Here are all of the domains for Luna Hub** | https://www.lunahub.gq |"
     " https://www.yousmellikefish.ml/ | https://sites.google.com/view/lunahub <:lunahub:981940577748795473>")
 
-client.run("OTgxNTU4Njg5OTc2Njg0NTg3.GmAWOw.a4QihNrPor8IrEZMwP8zRm5uq6bn_Y829R3D_g")
+client.run("TOKEN")
